@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1701780745 source:d:\itimaterials\c\project-version2\projectdynamic_version\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
+1702030484 source:d:\itimaterials\c\project-version2\storemanagementsystem\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<windows.h>
+
